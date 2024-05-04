@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" modified="2024-05-04T15:56:22.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="p5DCZ43RxC3kRL5Q7SXw" version="24.3.0" type="github">
+  <diagram name="Page-1" id="QrIpgsPLMxvEjfO4BUP2">
+    <mxGraphModel dx="1221" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-1" value="" style="ellipse;html=1;shape=endState;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="750" y="565" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-2" value="" style="ellipse;html=1;shape=startState;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#b85450;rounded=0;fillColor=#f8cecc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="6MsV_hbqZ_Blml8c3XXq-2" parent="1" target="6MsV_hbqZ_Blml8c3XXq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="6MsV_hbqZ_Blml8c3XXq-5" target="6MsV_hbqZ_Blml8c3XXq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-55" value="&lt;font color=&quot;#12b0ff&quot;&gt;Success reading&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#12b0ff&quot;&gt;the card&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-46">
+          <mxGeometry x="-0.2308" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-5" value="&lt;font color=&quot;#12b0ff&quot;&gt;Read the card&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="145" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-7" value="&lt;font color=&quot;#12b0ff&quot;&gt;Enter the PIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#b85450;rounded=0;fillColor=#f8cecc;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="6MsV_hbqZ_Blml8c3XXq-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="360" as="targetPoint" />
+            <mxPoint x="420" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-45" value="&lt;font color=&quot;#12b0ff&quot;&gt;Success entering&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#12b0ff&quot;&gt;the PIN&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-8">
+          <mxGeometry x="0.0529" y="-1" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-11" value="&lt;font color=&quot;#12b0ff&quot;&gt;Choose the Transaction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#b85450;rounded=0;fillColor=#f8cecc;" edge="1" source="6MsV_hbqZ_Blml8c3XXq-11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-47" value="&lt;font color=&quot;#12b0ff&quot;&gt;Success choose&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-12">
+          <mxGeometry x="-0.1846" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-13" value="&lt;font color=&quot;#12b0ff&quot;&gt;Complete the Transaction&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-15" value="&lt;font color=&quot;#12b0ff&quot;&gt;Put the card in&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="145" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-19" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6MsV_hbqZ_Blml8c3XXq-15" target="6MsV_hbqZ_Blml8c3XXq-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="164.5" as="targetPoint" />
+            <mxPoint x="260" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-39" value="&lt;font style=&quot;&quot; color=&quot;#12b0ff&quot;&gt;Success reading&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; color=&quot;#12b0ff&quot;&gt;the card&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-19">
+          <mxGeometry x="-0.0044" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-21" value="&lt;font color=&quot;#12b0ff&quot;&gt;Eject the card&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="695" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" target="6MsV_hbqZ_Blml8c3XXq-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="480" as="targetPoint" />
+            <mxPoint x="480" y="479.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-37" value="&lt;font color=&quot;#12b0ff&quot;&gt;Transaction successful&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-23">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-31" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.836;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6MsV_hbqZ_Blml8c3XXq-5" target="6MsV_hbqZ_Blml8c3XXq-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="250" as="targetPoint" />
+            <mxPoint x="665" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-34" value="&lt;font color=&quot;#0dc6ff&quot;&gt;Can&#39;t read the card&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-31">
+          <mxGeometry x="-0.4219" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-32" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.636;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="6MsV_hbqZ_Blml8c3XXq-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="340" as="targetPoint" />
+            <mxPoint x="480" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-35" value="&lt;font color=&quot;#12b0ff&quot;&gt;Wrong PIN&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-32">
+          <mxGeometry x="-0.3016" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-33" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6MsV_hbqZ_Blml8c3XXq-11" target="6MsV_hbqZ_Blml8c3XXq-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="440" as="targetPoint" />
+            <mxPoint x="495" y="381" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-36" value="&lt;font color=&quot;#12b0ff&quot;&gt;Transaction can&#39;t be completed&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6MsV_hbqZ_Blml8c3XXq-33">
+          <mxGeometry x="-0.277" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-60" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="6MsV_hbqZ_Blml8c3XXq-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="414" y="500" as="sourcePoint" />
+            <mxPoint x="330" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="560" />
+              <mxPoint x="310" y="560" />
+              <mxPoint x="310" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6MsV_hbqZ_Blml8c3XXq-61" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="6MsV_hbqZ_Blml8c3XXq-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="764.5" y="500" as="sourcePoint" />
+            <mxPoint x="764.5" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
